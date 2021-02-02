@@ -1,7 +1,7 @@
 // Developed by Hackl0us (https://github.com/hackl0us)
 
 // STEP 1: 前往 https://aqicn.org/data-platform/token/ 注册账户，将申请的 API Token 填入下方
-const aqicnToken = ''
+const aqicnToken = 'aca9b891e5dafd98837e39e0777d19721120bb5d'
 
 // STEP 2: 参考下方配置片段，在代理工具的配置文件中添加对应的配置。注意：script-path 后应该替换为添加 apicnToken 值后的脚本路径
 /*
